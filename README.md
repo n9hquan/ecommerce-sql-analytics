@@ -16,11 +16,12 @@ identity is `customer_unique_id`. All repeat-purchase / cohort logic in this pro
 
 ## Interactive Dashboard
 
-**[Open dashboard.html](dashboard.html)** — all 10 findings below as interactive Plotly charts
-(hover for exact values, zoom/pan), each labeled with its query number for easy cross-reference.
+**[View live dashboard](https://n9hquan.github.io/ecommerce-sql-analytics/)** — all 10 findings below
+as interactive Plotly charts (hover for exact values, zoom/pan), each labeled with its query number
+for easy cross-reference. Hosted via GitHub Pages, no download needed.
 
-> GitHub can't render live JS in-browser from the repo view. Clone the repo and open
-> `dashboard.html` locally, or run `python build_dashboard.py` to regenerate it.
+> Prefer to run it locally? Clone the repo and open [`dashboard.html`](dashboard.html) directly, or
+> regenerate it with `python build_dashboard.py`.
 
 ## Tools
 
